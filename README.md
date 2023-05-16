@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abufayed</h1>
 <h3 align="center">A SAP Abap and Fiori developer & mobile apps developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ahmedabufayed" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedabufayed?logo=twitter&style=for-the-badge" alt="ahmedabufayed" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://ahmedabufayed.ga/#projects](https://ahmedabufayed.ga/#projects)
 
 - 📝 I regularly write articles on [https://ahmedabufayed.ga/](https://ahmedabufayed.ga/)
