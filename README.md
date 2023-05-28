@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmedabufayed.ga/#projects](https://ahmedabufayed.ga/#projects)
 
-- 📝 I regularly write articles on [https://ahmedabufayed.ga/](https://ahmedabufayed.ga/)
-
 - 💬 Ask me about **SAP , ABAP , Fiori ,SAPUI5 , Android , JAVA , XML**
 
 - 📫 How to reach me **ahmedmahtech@gmail.com**
