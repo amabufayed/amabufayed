@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abufayed</h1>
 <h3 align="center">A SAP Abap and Fiori developer & mobile apps developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/abufayedProjects](https://bit.ly/abufayedProjects)
+- 👨‍💻 All of my projects are available at [ https://n9.cl/amProjects ]( https://n9.cl/amProjects )
 
 - 💬 Ask me about **SAP , ABAP , Fiori ,SAPUI5 , Android , JAVA , XML**
 
 - 📫 How to reach me **ahmedmahtech@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/abufayedCV](https://bit.ly/abufayedCV)
+- 📄 Know about my experiences [https://n9.cl/abufayedCV](https://n9.cl/abufayedCV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
