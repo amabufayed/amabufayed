@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abufayed</h1>
-<h3 align="center">A SAP Abap and Fiori developer & mobile apps developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [ https://n9.cl/amProjects ]( https://n9.cl/amProjects )
 
