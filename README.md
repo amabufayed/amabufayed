@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abufayed</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [ https://ahmed-abufayed.web.app/#projects ]( My Projects )
+- 👨‍💻 All of my projects are available at [ https://ahmed-abufayed.web.app/#projects ]
 
 - 💬 Ask me about **Oracle , Oracle Fusion , Oracle SQL , Oracle Apex , Oracle VBCS , Oracle OIC ,SAP , ABAP , Fiori ,SAPUI5 , Android , JAVA , XML**
 
-- 📫 How to reach me **[https://ahmed-abufayed.web.app/#contact](Contanct Me)**
+- 📫 How to reach me **[https://ahmed-abufayed.web.app/#contact]**
 
-- 📄 Know about my services [https://ahmed-abufayed.web.app/#services](My services)
+- 📄 Know about my services [https://ahmed-abufayed.web.app/#services]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
